@@ -6,7 +6,20 @@ See slite design doc for details.
 Add a pretrained LLAMA2 or Lavila for AI models for test if data scraping doesn't work
 
 
+
+
+
+
+
+
+
 Highlights Tool 
+We want to make starting a YouTube career easier. We also want to make growing a YouTube channel easier for all YouTube channels. 
+
+In order to do this, let’s take the most successful YT videos and find what common elements they share. Once we do, find a way to detect those elements in YT recordings. One option is to train a YT model on videos containing this/these element(s) of successful videos, so the model will predict the presence of these elements in recorded footage. Recorded footage refers to unedited video content a YTber is planning to edit and upload to YouTube. 
+
+
+
 
 Potential user interaction formula:
 
